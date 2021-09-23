@@ -157,7 +157,7 @@
   },
   "cart": {
     "general": {
-      "title": "Same idea, your cart cart suuuh",
+      "title": "See heres the thing, this is done using liquid, not 'hard coding' it in",
       "note": "Add a note to your order",
       "removed_item_html": "Removed <span class=\"cart__removed-product-details\">({{ quantity }}) {{ link }}<\/span> from your cart.",
       "remove": "Remove",
